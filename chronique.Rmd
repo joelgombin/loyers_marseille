@@ -4,7 +4,7 @@ author: "Joël Gombin"
 date: "16 septembre 2016"
 output: 
   html_document:
-    standalone: false
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
